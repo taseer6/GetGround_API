@@ -1,0 +1,9 @@
+Constants/EndPoints.class
+configurations/RestAPIErrorHandler$1.class
+Constants/Url.class
+dto/People.class
+configurations/IRestAPIConfigs.class
+utilities/RestApi.class
+configurations/Implementation/RestApiConfigs.class
+configurations/RestAPIErrorHandler.class
+services/PeopleService.class
