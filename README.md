@@ -1,6 +1,5 @@
 # GetGround_API
-# Zopa-QATask
-Task for BackEnd QA Engineer
+
 
 # SET UP AND RUN TESTS
 -Maven or -TestNG
